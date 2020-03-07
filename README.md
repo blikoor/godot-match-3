@@ -30,7 +30,7 @@ All contributors are welcome. 🙂
 - Get in touch and communicate! Let us know what you are working on or report bugs using the issues tab. Join our [Discord server](https://discord.gg/3MFE6UN) to discuss the project live or to get in touch with the community
 - Be respectful to everyone around. Please check out the this Code of Conduct from [Contributor Covenant](https://www.contributor-covenant.org/version/1/4/code-of-conduct/).
 - For code, we follow the [GDScript styleguide](http://docs.godotengine.org/en/latest/getting_started/scripting/gdscript/gdscript_styleguide.html). We try to write clean and self-documenting GDScript as it helps us build upon each other's work. We use static typing to write more robust code and get full autocompletion in Godot.
-- The maintainers may refactor or tweak your code to make it fit the project's style, and for educational purposes. But we'll give you the opportunity to refine the style by yourself 😄
+- The maintainers may refactor or tweak your code to make it fit the project's style, and for educational purposes. But we'll give you the opportunity to refine the style by yourself. 😄
 
 #### License
 This project is licensed under the terms of the MIT license.
