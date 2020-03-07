@@ -1,5 +1,13 @@
-# godot-template-repo
-This template is used to create a new Godot project repository.
+<h1 align="center">
+  Godot Match 3 puzzle game</br>
+  <small>Learn to create a game like Candy Crush</small>
+</h1>
+
+<p>
+<img style="margin: 20px 0px 0px 20px;" src="https://lh3.googleusercontent.com/swbWGfp3Dgswlw6pVPBA3uPghK6Q5KCkd6E539V5Mk97ZEUWsxNI1_L3ms11NIFIFA9sqmSvehoAHok0VFHjYEnGAF-fQ5RTkl1nONPoKe_0aqcpkwq0_q--RSEQKvODQd0xxpNP=w2400" alt="Godot Match 3 game" height="384" width="216" align='right'/>
+</p>
+
+*Note that this project's code is based on another project, but purposely not forked from the original repository, since this project is only used for educational purposes.*
 
 ## Mission
 Our mission is to bring game creators together and to become better game developers.
@@ -12,8 +20,7 @@ Our mission is to bring game creators together and to become better game develop
 Do you want to contribute and help improve your own and our game development skills with Godot? Check out the open issues, suggest improvements and report bugs by opening new ones. 😎
 
 ### Project Scope
-<input placeholder="Overview of the project scope"> 
->Project scope is the part of project planning that involves determining and documenting a list of specific project goals, deliverables, >features, functions, tasks, deadlines, and ultimately costs. In other words, it is what needs to be achieved and the work that must be >done to deliver a project.
+We are building a vertical slice demo that the community can learn from. More details will follow later.
 
 ### Support Us
 We need your support to improve our programming skills, if your a experience programmer or game developer, consider contributing to the project.
