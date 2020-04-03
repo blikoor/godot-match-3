@@ -1,0 +1,108 @@
+{
+	"textures": [
+		{
+			"image": "tiles.png",
+			"size": {
+				"w": 780,
+				"h": 130
+			},
+			"sprites": [
+				{
+					"filename": "Blue Piece.png",
+					"region": {
+						"x": 1,
+						"y": 1,
+						"w": 128,
+						"h": 128
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "Green Piece.png",
+					"region": {
+						"x": 131,
+						"y": 1,
+						"w": 128,
+						"h": 128
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "Light Green Piece.png",
+					"region": {
+						"x": 261,
+						"y": 1,
+						"w": 128,
+						"h": 128
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "Orange Piece.png",
+					"region": {
+						"x": 391,
+						"y": 1,
+						"w": 128,
+						"h": 128
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "Pink Piece.png",
+					"region": {
+						"x": 521,
+						"y": 1,
+						"w": 128,
+						"h": 128
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "Yellow Piece.png",
+					"region": {
+						"x": 651,
+						"y": 1,
+						"w": 128,
+						"h": 128
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "1.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:3198b9a33c9a1dd7ecd6ac62097a26f6:b5ce7ea1e0de7414a0f3bd942810ffe8:3bac8801286e6fbd2e0d331bbbe42dfb$"
+	}
+}

@@ -1,0 +1,63 @@
+{
+	"textures": [
+		{
+			"image": "game UI.png",
+			"size": {
+				"w": 772,
+				"h": 228
+			},
+			"sprites": [
+				{
+					"filename": "counter.png",
+					"region": {
+						"x": 1,
+						"y": 1,
+						"w": 192,
+						"h": 192
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "bar.png",
+					"region": {
+						"x": 195,
+						"y": 1,
+						"w": 192,
+						"h": 128
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "polygon.png",
+					"region": {
+						"x": 195,
+						"y": 131,
+						"w": 576,
+						"h": 96
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "1.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:a0726616a9b677cd80c7806d99676b8e:60a778929f5b2616dd0cc897b95c2d82:51c5a90182a07bb0287010bf5583a332$"
+	}
+}
