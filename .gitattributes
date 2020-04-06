@@ -1,4 +1,93 @@
+# GitHub linguist overrides
+krita/* linguist-vendored
+tp/* linguist-vendored
+godot/addons/* linguist-vendored
+*.tres linguist-vendored
+*.cs liguist-language=C#
+
+# Git default EOL
 * text=auto
 
-*.png binary
-*.jpg binary
+# Godot EOL
+*.gd eol=lf
+*.tscn eol=lf
+*.material eol=lf
+*.cfg eol=lf
+*.godot eol=lf
+*.import eol=lf
+
+#3D models
+*.3dm       binary
+*.3ds       binary
+*.blend     binary
+*.c4d       binary
+*.collada   binary
+*.dae       binary
+*.dxf       binary
+*.FBX       binary
+*.fbx       binary
+*.jas       binary
+*.lws       binary
+*.lxo       binary
+*.ma        binary
+*.max       binary
+*.mb        binary
+*.obj       binary
+*.ply       binary
+*.skp       binary
+*.stl       binary
+*.ztl       binary
+
+# Image files
+*.bmp       binary
+*.exr       binary
+*.png       binary
+*.jpg       binary
+*.jpeg      binary
+*.tga       binary
+*.gif       binary
+*.tif       binary
+*.tiff      binary
+*.ico       binary
+
+# Audio files
+*.aif       binary
+*.aiff      binary
+*.it        binary
+*.mod       binary
+*.mp3       binary
+*.ogg       binary
+*.s3m       binary
+*.wav       binary
+*.xm        binary
+
+# Video files
+*.asf       binary
+*.avi       binary
+*.flv       binary
+*.mov       binary
+*.mp4       binary
+*.mpeg      binary
+*.mpg       binary
+*.ogv       binary
+*.wmv       binary
+
+# Compressed Achives
+*.7z        binary
+*.bz2       binary
+*.gz        binary
+*.rar       binary
+*.tar       binary
+*.zip       binary
+
+# Fonts
+*.otf       binary
+*.ttf       binary
+
+# Compiled Dynamic Library
+*.dll       binary
+*.so        binary
+
+# Executable/Installer
+*.apk       binary
+*.exe       binary
